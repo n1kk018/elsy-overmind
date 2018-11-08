@@ -36,9 +36,6 @@ export const app = new App(
     actions: {
       setValue,
     },
-  },
-  {
-    devtools: 'localhost:4002',
   }
 );
 
